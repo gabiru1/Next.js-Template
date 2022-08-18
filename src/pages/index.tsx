@@ -5,7 +5,7 @@ function Home() {
     <div>
       <Head>
         <title>NEXTJS-TEMPLATE</title>
-        <meta name="description" content="created by: Heitor Sampaio" />
+        <meta name="description" content="created by: Gabriel Sampaio" />
       </Head>
       <body>
         <h1>
